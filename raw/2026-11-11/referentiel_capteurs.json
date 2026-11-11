@@ -1,0 +1,61 @@
+{
+  "source": "Réseau associatif de capteurs",
+  "stations": [
+    {
+      "id_capteur": "LC-FES-01",
+      "quartier": "Médina",
+      "lat": 34.05737,
+      "lon": -5.00195,
+      "mise_en_service": "2024-05-15"
+    },
+    {
+      "id_capteur": "LC-FES-02",
+      "quartier": "Ville Nouvelle",
+      "lat": 34.04011,
+      "lon": -4.97753,
+      "mise_en_service": "2023-01-30"
+    },
+    {
+      "id_capteur": "LC-FES-03",
+      "quartier": "Saïss",
+      "lat": 34.00909,
+      "lon": -4.9991,
+      "mise_en_service": "2024-02-23"
+    },
+    {
+      "id_capteur": "LC-FES-04",
+      "quartier": "Zouagha",
+      "lat": 33.98608,
+      "lon": -4.96738,
+      "mise_en_service": "2023-09-25"
+    },
+    {
+      "id_capteur": "LC-FES-05",
+      "quartier": "Bensouda",
+      "lat": 34.0475,
+      "lon": -5.01065,
+      "mise_en_service": "2024-03-28"
+    },
+    {
+      "id_capteur": "LC-FES-06",
+      "quartier": "Sidi Brahim (zone industrielle)",
+      "lat": 34.02252,
+      "lon": -5.02872,
+      "mise_en_service": "2023-02-25"
+    },
+    {
+      "id_capteur": "LC-FES-07",
+      "quartier": "Narjiss",
+      "lat": 34.00683,
+      "lon": -4.97262,
+      "mise_en_service": "2023-12-14"
+    },
+    {
+      "id_capteur": "LC-FES-08",
+      "quartier": "Atlas",
+      "lat": 34.04363,
+      "lon": -5.05452,
+      "mise_en_service": "2024-04-03"
+    }
+  ]
+}
